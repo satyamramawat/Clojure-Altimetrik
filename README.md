@@ -19,4 +19,4 @@ This project has created in Clojure Programming Language.
 5) After installing Leiningen on system, run the project by executing commands "Lein run". Use this link for reference: https://coderwall.com/p/yb1k-q/hello-world-in-clojure
 
 
-Clojure Developer: Satyam Ramawat
+Developer: Satyam Ramawat
