@@ -2,7 +2,7 @@
 (ns altimetrik.core)
 
 (defn sqrt-range [n]
-  "Function to generate the list from 2 to 1.0E15"
+  "Function to generate the list upto square root of N"
   (take-while #(>= n (* % %)) (range 2 1.0E15) ))
 
 (defn is-prime? [n]
